@@ -1,0 +1,52 @@
+name: CAT
+channels:
+  - http://conda.anaconda.org/gurobi
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2021.1.19=h06a4308_0
+  - ld_impl_linux-64=2.33.1=h53a641e_7
+  - libedit=3.1.20191231=h14c3975_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - openssl=1.1.1j=h27cfd23_0
+  - pip=21.0.1=py37h06a4308_0
+  - python=3.7.7=hcff3b4d_5
+  - readline=8.1=h27cfd23_0
+  - setuptools=52.0.0=py37h06a4308_0
+  - sqlite=3.33.0=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - certifi==2019.11.28
+    - cloudpickle==1.2.2
+    - cycler==0.10.0
+    - future==0.18.2
+    - gym==0.15.4
+    - joblib==0.16.0
+    - kiwisolver==1.1.0
+    - matplotlib==3.1.3
+    - numpy==1.18.1
+    - opencv-python==4.1.2.30
+    - pandas==1.0.1
+    - profilehooks==1.11.2
+    - pulp==2.1
+    - pyaml==20.4.0
+    - pyeasyga==0.3.1
+    - pyglet==1.3.2
+    - pyparsing==2.4.6
+    - python-dateutil==2.8.1
+    - pytz==2019.3
+    - pyyaml==5.3.1
+    - recordclass==0.13.2
+    - scikit-learn==0.23.1
+    - scikit-optimize==0.7.4
+    - scipy==1.4.1
+    - six==1.14.0
+    - threadpoolctl==2.1.0
+prefix: /home/william/anaconda3/envs/CAT_env_backup
+
